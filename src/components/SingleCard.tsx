@@ -1,5 +1,6 @@
 import "./SingleCard.css";
 import { Card } from "./../App";
+import cover from "../img/cover.png";
 
 interface SingleCardProps {
   card: Card;
@@ -27,7 +28,7 @@ const SingleCard: React.FC<SingleCardProps> = ({
         <img
           className="back"
           onClick={handleClick}
-          src="/img/cover.png"
+          src={cover}
           alt="card back"
         />
       </div>
