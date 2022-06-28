@@ -1,13 +1,20 @@
 {
   "files": {
     "main.css": "/magic-match/static/css/main.f31a8eb9.css",
-    "main.js": "/magic-match/static/js/main.6a8e0e7b.js",
+    "main.js": "/magic-match/static/js/main.5220f418.js",
+    "static/media/cover.png": "/magic-match/static/media/cover.b35cfd2810870e019e99.png",
+    "static/media/shield-1.png": "/magic-match/static/media/shield-1.a961da9569e66174ca3b.png",
+    "static/media/helmet-1.png": "/magic-match/static/media/helmet-1.d082cb3c8e66546d8921.png",
+    "static/media/potion-1.png": "/magic-match/static/media/potion-1.94e34273991220b1f174.png",
+    "static/media/scroll-1.png": "/magic-match/static/media/scroll-1.135e1c7d24aef8a9cd61.png",
+    "static/media/sword-1.png": "/magic-match/static/media/sword-1.47dbfbdd3a1e94165050.png",
+    "static/media/ring-1.png": "/magic-match/static/media/ring-1.4c376e3f983bd42b39d3.png",
     "index.html": "/magic-match/index.html",
     "main.f31a8eb9.css.map": "/magic-match/static/css/main.f31a8eb9.css.map",
-    "main.6a8e0e7b.js.map": "/magic-match/static/js/main.6a8e0e7b.js.map"
+    "main.5220f418.js.map": "/magic-match/static/js/main.5220f418.js.map"
   },
   "entrypoints": [
     "static/css/main.f31a8eb9.css",
-    "static/js/main.6a8e0e7b.js"
+    "static/js/main.5220f418.js"
   ]
 }
